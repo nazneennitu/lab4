@@ -1,0 +1,19 @@
+{
+    "name": "101444170_comp3123-exec04",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "dev": "nodemon app.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.21.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.22"
+    },
+    "keywords": [],
+    "description": ""
+}
